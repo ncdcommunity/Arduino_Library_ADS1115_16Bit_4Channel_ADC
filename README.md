@@ -9,7 +9,7 @@ This Device is available from www.ncd.io [SKU: ADS1115_I2CS]
 (https://store.ncd.io/product/ads1115-16-bit-4-channel-precision-analog-to-digital-converter-i2c-mini-module/)
 This Sample code can be used with  Arduino.
 
-Hardware needed to interface HADS1115 16-Bit 4-Channel Precision Analog to Digital Converter with Arduino
+Hardware needed to interface ADS1115 16-Bit 4-Channel Precision Analog to Digital Converter with Arduino
 1. <a href="https://store.ncd.io/product/i2c-shield-for-arduino-nano/">Arduino Nano</a>
 2. <a href="https://store.ncd.io/product/i2c-shield-for-arduino-micro-with-i2c-expansion-port/">Arduino Micro</a>
 3. <a href="https://store.ncd.io/product/i2c-shield-for-arduino-uno/">Arduino uno</a>
