@@ -5,8 +5,12 @@
 
 # ADS1115
 ADS1115 is a 16-Bit 4-Channel Precision Analog to Digital Converter I2C Mini Module.
-This Device is available from www.ncd.io [SKU: ADS1115_I2CS]
+This Device is available from www.ncd.io
+
+[SKU: ADS1115_I2CS]
+
 (https://store.ncd.io/product/ads1115-16-bit-4-channel-precision-analog-to-digital-converter-i2c-mini-module/)
+
 This Sample code can be used with  Arduino.
 
 Hardware needed to interface ADS1115 16-Bit 4-Channel Precision Analog to Digital Converter with Arduino
