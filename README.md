@@ -18,9 +18,12 @@ Hardware needed to interface ADS1115 16-Bit 4-Channel Precision Analog to Digita
 6. <a href="https://store.ncd.io/product/i%C2%B2c-cable/">I2C Cable</a>
 
 ADS1115 :
+
 ADS1115 is a 4 Channel 16 bit resolution Analog to digital Converter. This ADC can be used as four single ended and two differential inputs analog to digital converter, signal channel differential analog to digital converter or single channel comparator. 
 The ADC board has 2 address jumpers, which can be used to set upto 4 different I2C addresses. 
-Applications
+
+Applications:
+
 •Portable Instrumentation
 
 •Battery Voltage and Current Monitoring
